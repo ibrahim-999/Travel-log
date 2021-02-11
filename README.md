@@ -1,1 +1,1 @@
-# Travel-log app with React
+# Travel-log app with MERN + Hooks and Mapbox
