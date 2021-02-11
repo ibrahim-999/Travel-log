@@ -1,1 +1,1 @@
-# Travel-log
+# Travel-log app with React
